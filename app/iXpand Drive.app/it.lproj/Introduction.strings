@@ -1,0 +1,90 @@
+/* Class = "UIButton"; normalTitle = "Take a tour"; ObjectID = "0aI-mM-iAc"; */
+"0aI-mM-iAc.normalTitle" = "Esplora";
+
+/* Class = "UILabel"; text = "Let’s update your \nfirmware."; ObjectID = "2Zm-Eg-im8"; */
+"2Zm-Eg-im8.text" = "Aggiorniamo 
+il firmware.";
+
+/* Class = "UILabel"; text = "Hello!"; ObjectID = "7Ll-Jz-rYb"; */
+"7Ll-Jz-rYb.text" = "Salve!";
+
+/* Class = "UIButton"; normalTitle = "Set up my iXpand Drive"; ObjectID = "9Mr-X7-U3l"; */
+"9Mr-X7-U3l.normalTitle" = "Configura il mio iXpand";
+
+/* Class = "UILabel"; text = "Plug in your iXpand Drive\n to get started."; ObjectID = "80g-Ri-RYn"; */
+"80g-Ri-RYn.text" = "Collega il tuo iXpand 
+per iniziare.";
+
+/* Class = "UIButton"; normalTitle = "Set up my iXpand Drive"; ObjectID = "A6D-vC-efJ"; */
+"A6D-vC-efJ.normalTitle" = "Configura il mio iXpand";
+
+/* Class = "UILabel"; text = "Save memories from social media."; ObjectID = "EZj-yB-pSq"; */
+"EZj-yB-pSq.text" = "SALVA RICORDI DA 
+SOCIAL MEDIA.";
+
+/* Class = "UILabel"; text = "Arranging your content\nso you don't have to..."; ObjectID = "IOB-pZ-vII"; */
+"IOB-pZ-vII.text" = "Sto riordinando i tuoi contenuti, così non devi pensarci tu...";
+
+/* Class = "UILabel"; text = "1.0.4"; ObjectID = "IOd-ao-1bl"; */
+"IOd-ao-1bl.text" = "1.0.4";
+
+/* Class = "UILabel"; text = "Transfer files across your devices."; ObjectID = "JAd-1G-5rM"; */
+"JAd-1G-5rM.text" = "TRASFERISCI FILE TRA
+I TUOI DISPOSITIVI";
+
+/* Class = "UILabel"; text = "Automatically back up \nyour photo library every time \nyou plug in your iXpand Drive."; ObjectID = "QaU-kb-KZN"; */
+"QaU-kb-KZN.text" = "Effettua un backup automatico  
+della libreria foto ogni volta che  
+colleghi il tuo iXpand.";
+
+/* Class = "UIButton"; normalTitle = "NOT NOW"; ObjectID = "R6G-MD-J2u"; */
+"R6G-MD-J2u.normalTitle" = "NON ORA";
+
+/* Class = "UIButton"; normalTitle = "View Files on iPhone"; ObjectID = "RLo-SB-VzP"; */
+"RLo-SB-VzP.normalTitle" = "Visualizza file su iPhone";
+
+/* Class = "UILabel"; text = "Flash Drive"; ObjectID = "Tlt-Kk-stA"; */
+"Tlt-Kk-stA.text" = "Unità flash";
+
+/* Class = "UIButton"; normalTitle = "ALLOW"; ObjectID = "XVX-xP-fSp"; */
+"XVX-xP-fSp.normalTitle" = "CONSENTI";
+
+/* Class = "UILabel"; text = "Updating your firmware will make your iXpand Drive work better!"; ObjectID = "Zab-XG-iQm"; */
+"Zab-XG-iQm.text" = "L’aggiornamento del firmware assicurerà un miglior funzionamento di iXpand!";
+
+/* Class = "UILabel"; text = "Hello!\nPlug in your iXpand Drive\nto get started."; ObjectID = "b6s-GC-CFZ"; */
+"b6s-GC-CFZ.text" = "Salve!Collega il tuo iXpand
+per iniziare.";
+
+/* Class = "UIButton"; normalTitle = "TURN ON AUTO BACKUP"; ObjectID = "cYM-VO-KkE"; */
+"cYM-VO-KkE.normalTitle" = "ATTIVA IL BACKUP AUTOMATICO";
+
+/* Class = "UILabel"; text = "You’re \nConnected!"; ObjectID = "gA9-Kg-nuG"; */
+"gA9-Kg-nuG.text" = "Sei connesso!";
+
+/* Class = "UIButton"; normalTitle = "Contact SanDisk Online Support"; ObjectID = "i5r-w1-NOR"; */
+"i5r-w1-NOR.normalTitle" = "Contatta l’assistenza online di SanDisk";
+
+/* Class = "UIButton"; normalTitle = "Skip for now"; ObjectID = "lib-tO-a6Y"; */
+"lib-tO-a6Y.normalTitle" = "Salta per ora";
+
+/* Class = "UILabel"; text = "Please allow iXpand Drive to access your photos."; ObjectID = "lzI-ft-9Ov"; */
+"lzI-ft-9Ov.text" = "Consenti a iXpand di accedere alle tue foto.";
+
+/* Class = "UILabel"; text = "Free up memory to make more memories."; ObjectID = "ooL-Yq-XzN"; */
+"ooL-Yq-XzN.text" = "LIBERA LA MEMORIA
+PER FAR SPAZIO A PIÙ RICORDI";
+
+/* Class = "UIButton"; normalTitle = "GET INSTRUCTIONS"; ObjectID = "tid-9n-wuo"; */
+"tid-9n-wuo.normalTitle" = "RICEVI ISTRUZIONI";
+
+/* Class = "UILabel"; text = "Not connected?"; ObjectID = "vIr-7u-afl"; */
+"vIr-7u-afl.text" = "Non collegato?";
+
+/* Class = "UILabel"; text = "This way we can automatically keep your photos safe."; ObjectID = "ydz-iH-44Y"; */
+"ydz-iH-44Y.text" = "In questo modo possiamo tenere al sicuro le tue foto automaticamente.";
+
+/* Class = "UILabel"; text = "Play videos and music directly from the drive."; ObjectID = "zav-hF-rSv"; */
+"zav-hF-rSv.text" = "RIPRODUCI VIDEO E MUSICA
+DIRETTAMENTE DALL'UNITÀ.";
+

@@ -1,0 +1,39 @@
+/* Class = "UIButton"; normalTitle = "BACK UP"; ObjectID = "4RW-GO-EAT"; */
+"4RW-GO-EAT.normalTitle" = "BACK UP";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "BbU-TE-orG"; */
+"BbU-TE-orG.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Do you want to back up or\nrestore your photo library?"; ObjectID = "HK0-z6-Ebd"; */
+"HK0-z6-Ebd.text" = "Do you want to back up or\nrestore your photo library?";
+
+/* Class = "UILabel"; text = "Automatic Backup is ON. After the first backup, only new items are backed up to iXpand Drive. "; ObjectID = "HN7-ve-oe6"; */
+"HN7-ve-oe6.text" = "Automatic Backup is ON. After the first backup, only new items are backed up to iXpand Drive. ";
+
+/* Class = "UILabel"; text = "Enter new name for Camera Backup folder"; ObjectID = "JQS-3o-rS0"; */
+"JQS-3o-rS0.text" = "Enter new name for Camera Backup folder";
+
+/* Class = "UILabel"; text = "Camera Backup"; ObjectID = "LYa-Vn-Hob"; */
+"LYa-Vn-Hob.text" = "Camera Backup";
+
+/* Class = "UILabel"; text = "Destination"; ObjectID = "Lc1-LH-Cyy"; */
+"Lc1-LH-Cyy.text" = "Destination";
+
+/* Class = "UITextField"; placeholder = "Camera Backup Folder Name"; ObjectID = "SU3-R4-0T4"; */
+"SU3-R4-0T4.placeholder" = "Camera Backup Folder Name";
+
+/* Class = "UILabel"; text = "Automatic backup"; ObjectID = "eGu-SR-dr6"; */
+"eGu-SR-dr6.text" = "Automatic backup";
+
+/* Class = "UIButton"; normalTitle = "RESTORE"; ObjectID = "ecD-3b-HvF"; */
+"ecD-3b-HvF.normalTitle" = "RESTORE";
+
+/* Class = "UILabel"; text = "Enter new name for Camera Backup folder"; ObjectID = "hEe-lL-EbZ"; */
+"hEe-lL-EbZ.text" = "Enter new name for Camera Backup folder";
+
+/* Class = "UITextField"; placeholder = "Camera Backup Folder Name"; ObjectID = "mEa-i9-YdZ"; */
+"mEa-i9-YdZ.placeholder" = "Camera Backup Folder Name";
+
+/* Class = "UILabel"; text = "Camera Backup"; ObjectID = "qUe-HF-brS"; */
+"qUe-HF-brS.text" = "Camera Backup";
+

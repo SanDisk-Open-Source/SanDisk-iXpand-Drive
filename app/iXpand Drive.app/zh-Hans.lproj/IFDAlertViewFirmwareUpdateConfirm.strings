@@ -1,0 +1,16 @@
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "HQz-Ns-TeB"; */
+"HQz-Ns-TeB.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "An update is available for your iXpand Drive"; ObjectID = "PYc-6t-dSV"; */
+"PYc-6t-dSV.text" = "iXpand 驱动器有更新可用";
+
+/* Class = "UILabel"; text = "Main firmware version:\nCurrent 2.3.5, new 2.3.6\n\nBluetooth firmware:\nCurrent 2.3.5, new 2.3.6"; ObjectID = "Rw9-Wf-JMz"; */
+"Rw9-Wf-JMz.text" = "主固件版本：
+目前版本 2.3.5，新版本 2.3.6
+
+蓝牙固件：
+目前版本 2.3.5，新版本 2.3.6";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "ena-TM-Mbk"; */
+"ena-TM-Mbk.normalTitle" = "更新";
+

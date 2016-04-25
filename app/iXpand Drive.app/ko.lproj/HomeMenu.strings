@@ -1,0 +1,24 @@
+/* Class = "UIButton"; normalTitle = "BACK UP & RESTORE\nCONTACTS"; ObjectID = "7uX-a6-y6E"; */
+"7uX-a6-y6E.normalTitle" = "연락처 백업 및 복구";
+
+/* Class = "UIButton"; normalTitle = "COPY FILES"; ObjectID = "Cwa-rK-W0r"; */
+"Cwa-rK-W0r.normalTitle" = "파일 복사";
+
+/* Class = "UIButton"; normalTitle = "COPY PHOTOS FROM PHONE"; ObjectID = "LRe-hz-fSg"; */
+"LRe-hz-fSg.normalTitle" = "전화기에서 사진 복사";
+
+/* Class = "UIButton"; normalTitle = "COPY FILES FROM iXPAND DRIVE"; ObjectID = "MxG-L1-7Lp"; */
+"MxG-L1-7Lp.normalTitle" = "iXPAND에서 파일 복사";
+
+/* Class = "UIButton"; normalTitle = "VIEW FILES"; ObjectID = "ZSv-Eh-Sd6"; */
+"ZSv-Eh-Sd6.normalTitle" = "파일 보기";
+
+/* Class = "UIButton"; normalTitle = "BACK UP & RESTORE\nPHOTO LIBRARY"; ObjectID = "dGB-St-7lN"; */
+"dGB-St-7lN.normalTitle" = "사진 라이브러리 백업 및 복구";
+
+/* Class = "UIButton"; normalTitle = "BACK UP AND RESTORE"; ObjectID = "dWO-Vg-QwY"; */
+"dWO-Vg-QwY.normalTitle" = "백업 및 복구";
+
+/* Class = "UIButton"; normalTitle = "BACK UP\nSOCIAL MEDIA"; ObjectID = "zJQ-VS-S0O"; */
+"zJQ-VS-S0O.normalTitle" = "소셜 미디어 백업";
+

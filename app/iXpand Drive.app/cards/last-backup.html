@@ -1,0 +1,71 @@
+<style>
+
+.flex > div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.text {
+    font-size: 10pt;
+    text-transform: uppercase;
+}
+
+.date {
+    font-family: "Helvetica Neue";
+    font-weight: lighter;
+    font-size: 22vh;
+    color: #ed1c24;
+    text-align: center;
+}
+
+.time {
+    font-family: "PT Sans";
+    font-weight: normal;
+    font-size: 10pt;
+    color: #4a4a4a;
+    text-align: center;
+
+}
+
+@media only screen and (min-device-width: 768px)  {
+    .text {
+        font-size: 20px;
+    }
+    .time {
+        font-size: 20px;
+    }
+}
+
+div.text {
+    flex-grow:0;
+    height: 22vh;
+    justify-content: flex-start;
+    
+}
+
+div.date {
+    flex-grow:0;
+    height: 56vh;
+}
+
+.pane {
+    display: table;
+    margin: auto;
+    background-color: #D9D9D9;
+    padding: 15px;
+    min-width: 80%;
+    border-radius: 10vh;
+}
+
+div.time {
+    flex-grow:0;
+    height: 22vh;
+}
+
+
+</style>
+
+<div class="text"><div>%%__text__%%</div></div>
+<div class="date"><div class="pane">%%__date__%%</div></div>
+<div class="time">%%__time__%%</div>

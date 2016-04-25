@@ -1,0 +1,60 @@
+/* (No Commment) */
+"4RW-GO-EAT.normalTitle" = "COPIA DE SEGURIDAD";
+
+/* (No Commment) */
+"BbU-TE-orG.normalTitle" = "Aceptar";
+
+/* (No Commment) */
+"HK0-z6-Ebd.text" = "¿Seguro que quieres crear una copia de seguridad del carrete de la cámara o restaurarla?";
+
+/* (No Commment) */
+"HN7-ve-oe6.text" = "La copia de seguridad automática está activada.Tras la primera copia de seguridad, solo se guardarán en la iXpand los elementos nuevos.";
+
+/* (No Commment) */
+"JQS-3o-rS0.text" = "Escribe un nuevo nombre para la carpeta de copia de seguridad de la cámara";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "KZp-JM-mle"; */
+"KZp-JM-mle.normalTitle" = "Aceptar";
+
+/* Class = "UIButton"; normalTitle = "BACK UP"; ObjectID = "LKV-f5-Ng2"; */
+"LKV-f5-Ng2.normalTitle" = "COPIA DE SEGURIDAD";
+
+/* (No Commment) */
+"LYa-Vn-Hob.text" = "Copia de seguridad de la cámara";
+
+/* (No Commment) */
+"Lc1-LH-Cyy.text" = "Destino";
+
+/* Class = "UILabel"; text = "Automatic backup"; ObjectID = "ORA-w0-Rif"; */
+"ORA-w0-Rif.text" = "Copia de seguridad automática";
+
+/* (No Commment) */
+"SU3-R4-0T4.placeholder" = "Nombre de la carpeta de copia de seguridad de la cámara";
+
+/* Class = "UILabel"; text = "Automatic Backup is ON. After the first backup, only new items are backed up to iXpand Drive. "; ObjectID = "aQz-e0-Vwx"; */
+"aQz-e0-Vwx.text" = "La copia de seguridad automática está activada.Tras la primera copia de seguridad, solo se guardarán en la iXpand los elementos nuevos.";
+
+/* Class = "UIButton"; normalTitle = "RESTORE"; ObjectID = "bzd-kd-nSU"; */
+"bzd-kd-nSU.normalTitle" = "RESTAURAR";
+
+/* (No Commment) */
+"eGu-SR-dr6.text" = "Copia de seguridad automática";
+
+/* (No Commment) */
+"ecD-3b-HvF.normalTitle" = "RESTAURAR";
+
+/* Class = "UILabel"; text = "Enter new name for Camera Backup folder"; ObjectID = "hEe-lL-EbZ"; */
+"hEe-lL-EbZ.text" = "Escribe un nuevo nombre para la carpeta de copia de seguridad de la cámara";
+
+/* Class = "UITextField"; placeholder = "Camera Backup Folder Name"; ObjectID = "mEa-i9-YdZ"; */
+"mEa-i9-YdZ.placeholder" = "Nombre de la carpeta de copia de seguridad de la cámara";
+
+/* Class = "UILabel"; text = "Backup to/ Restore from"; ObjectID = "pyR-j3-yfD"; */
+"pyR-j3-yfD.text" = "Hacer copia de seguridad en/Restaurar de";
+
+/* Class = "UILabel"; text = "Camera Backup"; ObjectID = "qUe-HF-brS"; */
+"qUe-HF-brS.text" = "Copia de seguridad de la cámara";
+
+/* Class = "UILabel"; text = "Do you want to back up or\nrestore your photo library?"; ObjectID = "xyg-CU-VKX"; */
+"xyg-CU-VKX.text" = "¿Seguro que quieres crear una copia de seguridad del carrete de la cámara o restaurarla?";
+

@@ -1,0 +1,12 @@
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "Jxy-Sy-gsr"; */
+"Jxy-Sy-gsr.normalTitle" = "확인";
+
+/* Class = "UILabel"; text = "Enter Password"; ObjectID = "VlU-yP-wQX"; */
+"VlU-yP-wQX.text" = "암호 입력";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "tW1-dJ-0wK"; */
+"tW1-dJ-0wK.normalTitle" = "취소";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "z5C-4f-bTs"; */
+"z5C-4f-bTs.placeholder" = "암호";
+

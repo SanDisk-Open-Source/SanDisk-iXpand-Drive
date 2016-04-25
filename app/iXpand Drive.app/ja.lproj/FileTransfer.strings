@@ -1,0 +1,27 @@
+/* Class = "UIButton"; normalTitle = "Resume"; ObjectID = "4eP-76-0LV"; */
+"4eP-76-0LV.normalTitle" = "再表示";
+
+/* Class = "UILabel"; text = "<FOLDER NAME>"; ObjectID = "71h-Dy-hf7"; */
+"71h-Dy-hf7.text" = "フォルダ名";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "EWw-h4-iVY"; */
+"EWw-h4-iVY.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "<Transferring 20 files>"; ObjectID = "IGn-vQ-PTb"; */
+"IGn-vQ-PTb.text" = "20ファイルをコピー中";
+
+/* Class = "UILabel"; text = "failed"; ObjectID = "J4u-nG-Yrs"; */
+"J4u-nG-Yrs.text" = "失敗しました。";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "JI2-70-BkF"; */
+"JI2-70-BkF.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "failed"; ObjectID = "Qif-lS-fZg"; */
+"Qif-lS-fZg.text" = "失敗しました。";
+
+/* Class = "UILabel"; text = "<Filename>"; ObjectID = "U2b-a6-dxy"; */
+"U2b-a6-dxy.text" = "<ファイル名>";
+
+/* Class = "UILabel"; text = "<Filename>"; ObjectID = "w3M-Ix-rn2"; */
+"w3M-Ix-rn2.text" = "<ファイル名>";
+

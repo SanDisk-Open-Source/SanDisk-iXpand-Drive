@@ -1,0 +1,42 @@
+/* (No Commment) */
+"A4b-cG-2xM.normalTitle" = "存档联系人";
+
+/* (No Commment) */
+"J7a-tB-feZ.text" = "自动备份联系人";
+
+/* (No Commment) */
+"Mfy-Ch-8fi.text" = "1/22/14";
+
+/* Class = "UIButton"; normalTitle = "ARCHIVE CONTACTS"; ObjectID = "NtF-Zi-FYE"; */
+"NtF-Zi-FYE.normalTitle" = "存档联系人";
+
+/* Class = "UILabel"; text = "Restore"; ObjectID = "NtP-51-thu"; */
+"NtP-51-thu.text" = "还原";
+
+/* Class = "UILabel"; text = "<Contact Name>"; ObjectID = "OwZ-YB-5K3"; */
+"OwZ-YB-5K3.text" = "<Contact Name>";
+
+/* Class = "UIButton"; normalTitle = "RESTORE"; ObjectID = "cj2-am-5gm"; */
+"cj2-am-5gm.normalTitle" = "还原";
+
+/* (No Commment) */
+"eDp-48-mKm.normalTitle" = "还原";
+
+/* Class = "UILabel"; text = "1/22/14"; ObjectID = "icy-6S-X81"; */
+"icy-6S-X81.text" = "1/22/14";
+
+/* Class = "UILabel"; text = "<File name>"; ObjectID = "klt-9a-zww"; */
+"klt-9a-zww.text" = "<File name>";
+
+/* (No Commment) */
+"kmo-9s-YiE.text" = "还原";
+
+/* (No Commment) */
+"krc-s0-Dav.text" = "备份";
+
+/* Class = "UILabel"; text = "Back Up"; ObjectID = "oP6-N5-wLv"; */
+"oP6-N5-wLv.text" = "备份";
+
+/* Class = "UILabel"; text = "Automatically back up contacts"; ObjectID = "zfl-H8-K3F"; */
+"zfl-H8-K3F.text" = "自动备份联系人";
+

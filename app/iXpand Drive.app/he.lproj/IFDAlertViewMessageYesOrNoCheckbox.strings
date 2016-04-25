@@ -1,0 +1,15 @@
+/* Class = "UIButton"; normalTitle = "<Button Title>"; ObjectID = "77D-7P-dy0"; */
+"77D-7P-dy0.normalTitle" = "<כותרת לחצן>";
+
+/* Class = "UILabel"; text = "Deleting Files"; ObjectID = "cey-U7-Val"; */
+"cey-U7-Val.text" = "מחיקת קבצים";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "cf3-qy-24K"; */
+"cf3-qy-24K.normalTitle" = "אישור";
+
+/* Class = "UIButton"; normalTitle = "<Button>"; ObjectID = "eLK-0j-1ne"; */
+"eLK-0j-1ne.normalTitle" = "<לחצן>";
+
+/* Class = "UILabel"; text = "Do not show this again."; ObjectID = "ugF-Wk-gy3"; */
+"ugF-Wk-gy3.text" = "אל תציג זאת שוב.";
+

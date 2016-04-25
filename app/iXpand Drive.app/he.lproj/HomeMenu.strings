@@ -1,0 +1,27 @@
+/* Class = "UIButton"; normalTitle = "BACK UP & RESTORE\nCONTACTS"; ObjectID = "7uX-a6-y6E"; */
+"7uX-a6-y6E.normalTitle" = "בצע גיבוי ושחזר 
+אנשי קשר";
+
+/* Class = "UIButton"; normalTitle = "COPY FILES"; ObjectID = "Cwa-rK-W0r"; */
+"Cwa-rK-W0r.normalTitle" = "העתק קבצים";
+
+/* Class = "UIButton"; normalTitle = "COPY PHOTOS FROM PHONE"; ObjectID = "LRe-hz-fSg"; */
+"LRe-hz-fSg.normalTitle" = "העתק תמונות מהטלפון";
+
+/* Class = "UIButton"; normalTitle = "COPY FILES FROM iXPAND DRIVE"; ObjectID = "MxG-L1-7Lp"; */
+"MxG-L1-7Lp.normalTitle" = "העתק קבצים מכונן iXPAND";
+
+/* Class = "UIButton"; normalTitle = "VIEW FILES"; ObjectID = "ZSv-Eh-Sd6"; */
+"ZSv-Eh-Sd6.normalTitle" = "הצג קבצים";
+
+/* Class = "UIButton"; normalTitle = "BACK UP & RESTORE\nPHOTO LIBRARY"; ObjectID = "dGB-St-7lN"; */
+"dGB-St-7lN.normalTitle" = "בצע גיבוי ושחזר 
+ספריית תמונות";
+
+/* Class = "UIButton"; normalTitle = "BACK UP AND RESTORE"; ObjectID = "dWO-Vg-QwY"; */
+"dWO-Vg-QwY.normalTitle" = "בצע גיבוי ושחזר";
+
+/* Class = "UIButton"; normalTitle = "BACK UP\nSOCIAL MEDIA"; ObjectID = "zJQ-VS-S0O"; */
+"zJQ-VS-S0O.normalTitle" = "בצע גיבוי של 
+מדיה חברתית";
+

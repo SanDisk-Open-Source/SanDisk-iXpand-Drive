@@ -1,0 +1,60 @@
+/* (No Commment) */
+"4RW-GO-EAT.normalTitle" = "SICHERN";
+
+/* (No Commment) */
+"BbU-TE-orG.normalTitle" = "OK";
+
+/* (No Commment) */
+"HK0-z6-Ebd.text" = "Möchten Sie Ihre Foto-Bibliothek sichern oder wiederherstellen?";
+
+/* (No Commment) */
+"HN7-ve-oe6.text" = "Automatische Datensicherung ist AN. Nach der ersten Datensicherung werden nur neue Elemente auf Ihrem iXpand-Laufwerk gesichert.";
+
+/* (No Commment) */
+"JQS-3o-rS0.text" = "Geben Sie einen neuen Namen für den Backup-Ordner der Kamera ein";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "KZp-JM-mle"; */
+"KZp-JM-mle.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "BACK UP"; ObjectID = "LKV-f5-Ng2"; */
+"LKV-f5-Ng2.normalTitle" = "SICHERN";
+
+/* (No Commment) */
+"LYa-Vn-Hob.text" = "Kamera Backup (Kamerasicherung)";
+
+/* (No Commment) */
+"Lc1-LH-Cyy.text" = "Ziel";
+
+/* Class = "UILabel"; text = "Automatic backup"; ObjectID = "ORA-w0-Rif"; */
+"ORA-w0-Rif.text" = "Automatische Datensicherung";
+
+/* (No Commment) */
+"SU3-R4-0T4.placeholder" = "Name des Backup-Ordners der Kamera";
+
+/* Class = "UILabel"; text = "Automatic Backup is ON. After the first backup, only new items are backed up to iXpand Drive. "; ObjectID = "aQz-e0-Vwx"; */
+"aQz-e0-Vwx.text" = "Automatische Datensicherung ist AN. Nach der ersten Datensicherung werden nur neue Elemente auf Ihrem iXpand-Laufwerk gesichert.";
+
+/* Class = "UIButton"; normalTitle = "RESTORE"; ObjectID = "bzd-kd-nSU"; */
+"bzd-kd-nSU.normalTitle" = "WIEDERHERSTELLEN";
+
+/* (No Commment) */
+"eGu-SR-dr6.text" = "Automatische Datensicherung";
+
+/* (No Commment) */
+"ecD-3b-HvF.normalTitle" = "WIEDERHERSTELLEN";
+
+/* Class = "UILabel"; text = "Enter new name for Camera Backup folder"; ObjectID = "hEe-lL-EbZ"; */
+"hEe-lL-EbZ.text" = "Geben Sie einen neuen Namen für den Backup-Ordner der Kamera ein";
+
+/* Class = "UITextField"; placeholder = "Camera Backup Folder Name"; ObjectID = "mEa-i9-YdZ"; */
+"mEa-i9-YdZ.placeholder" = "Name des Backup-Ordners der Kamera";
+
+/* Class = "UILabel"; text = "Backup to/ Restore from"; ObjectID = "pyR-j3-yfD"; */
+"pyR-j3-yfD.text" = "Sichern nach/wiederherstellen von ";
+
+/* Class = "UILabel"; text = "Camera Backup"; ObjectID = "qUe-HF-brS"; */
+"qUe-HF-brS.text" = "Kamerasicherung";
+
+/* Class = "UILabel"; text = "Do you want to back up or\nrestore your photo library?"; ObjectID = "xyg-CU-VKX"; */
+"xyg-CU-VKX.text" = "Möchten Sie Ihre Foto-Bibliothek sichern oder wiederherstellen?";
+

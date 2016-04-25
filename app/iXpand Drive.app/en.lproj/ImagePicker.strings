@@ -1,0 +1,33 @@
+/* Class = "UIButton"; normalTitle = "select all"; ObjectID = "94m-Yw-R3k"; */
+"94m-Yw-R3k.normalTitle" = "select all";
+
+/* Class = "UIButton"; normalTitle = "COPY TO iXPAND DRIVE"; ObjectID = "Daj-Vg-SyZ"; */
+"Daj-Vg-SyZ.normalTitle" = "COPY TO iXPAND DRIVE";
+
+/* Class = "UILabel"; text = "SELECT FILES"; ObjectID = "HxT-hy-55s"; */
+"HxT-hy-55s.text" = "SELECT FILES";
+
+/* Class = "UIButton"; normalTitle = "albums"; ObjectID = "Y3X-WM-pZf"; */
+"Y3X-WM-pZf.normalTitle" = "albums";
+
+/* Class = "UILabel"; text = "SELECT FILES"; ObjectID = "cTa-MP-kLz"; */
+"cTa-MP-kLz.text" = "SELECT FILES";
+
+/* Class = "UIButton"; normalTitle = "COPY TO iXPAND DRIVE"; ObjectID = "gMe-hZ-w5q"; */
+"gMe-hZ-w5q.normalTitle" = "COPY TO iXPAND DRIVE";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "kwf-WF-oiC"; */
+"kwf-WF-oiC.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "select all"; ObjectID = "nzG-yM-kUl"; */
+"nzG-yM-kUl.normalTitle" = "select all";
+
+/* Class = "UIButton"; normalTitle = "photos"; ObjectID = "oDp-pr-d1u"; */
+"oDp-pr-d1u.normalTitle" = "photos";
+
+/* Class = "UILabel"; text = "added 1/24/14"; ObjectID = "uU4-Fv-fwk"; */
+"uU4-Fv-fwk.text" = "added 1/24/14";
+
+/* Class = "UILabel"; text = "<Label>"; ObjectID = "1ET-XK-CcH"; */
+"1ET-XK-CcH.text" = "<Label>";
+

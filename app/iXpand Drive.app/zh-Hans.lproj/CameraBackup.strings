@@ -1,0 +1,60 @@
+/* (No Commment) */
+"4RW-GO-EAT.normalTitle" = "备份";
+
+/* (No Commment) */
+"BbU-TE-orG.normalTitle" = "确定";
+
+/* (No Commment) */
+"HK0-z6-Ebd.text" = "是否想要备份或还原图片库？";
+
+/* (No Commment) */
+"HN7-ve-oe6.text" = "自动备份开启。首次备份后，仅将新项目备份到 iXpand。";
+
+/* (No Commment) */
+"JQS-3o-rS0.text" = "输入新的相机备份文件夹名称";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "KZp-JM-mle"; */
+"KZp-JM-mle.normalTitle" = "确定";
+
+/* Class = "UIButton"; normalTitle = "BACK UP"; ObjectID = "LKV-f5-Ng2"; */
+"LKV-f5-Ng2.normalTitle" = "备份";
+
+/* (No Commment) */
+"LYa-Vn-Hob.text" = "相机备份";
+
+/* (No Commment) */
+"Lc1-LH-Cyy.text" = "目标";
+
+/* Class = "UILabel"; text = "Automatic backup"; ObjectID = "ORA-w0-Rif"; */
+"ORA-w0-Rif.text" = "自动备份";
+
+/* (No Commment) */
+"SU3-R4-0T4.placeholder" = "相机备份文件夹名称";
+
+/* Class = "UILabel"; text = "Automatic Backup is ON. After the first backup, only new items are backed up to iXpand Drive. "; ObjectID = "aQz-e0-Vwx"; */
+"aQz-e0-Vwx.text" = "自动备份开启。首次备份后，仅将新项目备份到 iXpand。";
+
+/* Class = "UIButton"; normalTitle = "RESTORE"; ObjectID = "bzd-kd-nSU"; */
+"bzd-kd-nSU.normalTitle" = "还原";
+
+/* (No Commment) */
+"eGu-SR-dr6.text" = "自动备份";
+
+/* (No Commment) */
+"ecD-3b-HvF.normalTitle" = "还原";
+
+/* Class = "UILabel"; text = "Enter new name for Camera Backup folder"; ObjectID = "hEe-lL-EbZ"; */
+"hEe-lL-EbZ.text" = "输入新的相机备份文件夹名称";
+
+/* Class = "UITextField"; placeholder = "Camera Backup Folder Name"; ObjectID = "mEa-i9-YdZ"; */
+"mEa-i9-YdZ.placeholder" = "相机备份文件夹名称";
+
+/* Class = "UILabel"; text = "Backup to/ Restore from"; ObjectID = "pyR-j3-yfD"; */
+"pyR-j3-yfD.text" = "备份到/还原于";
+
+/* Class = "UILabel"; text = "Camera Backup"; ObjectID = "qUe-HF-brS"; */
+"qUe-HF-brS.text" = "相机备份";
+
+/* Class = "UILabel"; text = "Do you want to back up or\nrestore your photo library?"; ObjectID = "xyg-CU-VKX"; */
+"xyg-CU-VKX.text" = "是否想要备份或还原图片库？";
+

@@ -1,0 +1,60 @@
+/* (No Commment) */
+"4RW-GO-EAT.normalTitle" = "CADANGKAN";
+
+/* (No Commment) */
+"BbU-TE-orG.normalTitle" = "OK";
+
+/* (No Commment) */
+"HK0-z6-Ebd.text" = "Apakah Anda ingin mencadangkan atau memulihkan perpustakaan foto Anda?";
+
+/* (No Commment) */
+"HN7-ve-oe6.text" = "Pencadangan Otomatis Aktif. Sesudah mencadangkan pertama, hanya beberapa item yang dicadangkan ke iXpand.";
+
+/* (No Commment) */
+"JQS-3o-rS0.text" = "Masukkan nama baru untuk folder Pencadangan Kamera";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "KZp-JM-mle"; */
+"KZp-JM-mle.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "BACK UP"; ObjectID = "LKV-f5-Ng2"; */
+"LKV-f5-Ng2.normalTitle" = "CADANGKAN";
+
+/* (No Commment) */
+"LYa-Vn-Hob.text" = "Pencadangan Kamera";
+
+/* (No Commment) */
+"Lc1-LH-Cyy.text" = "Tujuan";
+
+/* Class = "UILabel"; text = "Automatic backup"; ObjectID = "ORA-w0-Rif"; */
+"ORA-w0-Rif.text" = "Pencadangan otomatis";
+
+/* (No Commment) */
+"SU3-R4-0T4.placeholder" = "Nama Folder Pencadangan Kamera";
+
+/* Class = "UILabel"; text = "Automatic Backup is ON. After the first backup, only new items are backed up to iXpand Drive. "; ObjectID = "aQz-e0-Vwx"; */
+"aQz-e0-Vwx.text" = "Pencadangan Otomatis Aktif. Sesudah mencadangkan pertama, hanya beberapa item yang dicadangkan ke iXpand.";
+
+/* Class = "UIButton"; normalTitle = "RESTORE"; ObjectID = "bzd-kd-nSU"; */
+"bzd-kd-nSU.normalTitle" = "PULIHKAN";
+
+/* (No Commment) */
+"eGu-SR-dr6.text" = "Pencadangan otomatis";
+
+/* (No Commment) */
+"ecD-3b-HvF.normalTitle" = "PULIHKAN";
+
+/* Class = "UILabel"; text = "Enter new name for Camera Backup folder"; ObjectID = "hEe-lL-EbZ"; */
+"hEe-lL-EbZ.text" = "Masukkan nama baru untuk folder Pencadangan Kamera";
+
+/* Class = "UITextField"; placeholder = "Camera Backup Folder Name"; ObjectID = "mEa-i9-YdZ"; */
+"mEa-i9-YdZ.placeholder" = "Nama Folder Pencadangan Kamera";
+
+/* Class = "UILabel"; text = "Backup to/ Restore from"; ObjectID = "pyR-j3-yfD"; */
+"pyR-j3-yfD.text" = "Cadangkan ke/Pulihkan dari";
+
+/* Class = "UILabel"; text = "Camera Backup"; ObjectID = "qUe-HF-brS"; */
+"qUe-HF-brS.text" = "Pencadangan Kamera";
+
+/* Class = "UILabel"; text = "Do you want to back up or\nrestore your photo library?"; ObjectID = "xyg-CU-VKX"; */
+"xyg-CU-VKX.text" = "Apakah Anda ingin mencadangkan atau memulihkan perpustakaan foto Anda?";
+

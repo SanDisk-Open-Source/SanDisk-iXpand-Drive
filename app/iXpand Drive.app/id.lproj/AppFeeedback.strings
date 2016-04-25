@@ -1,0 +1,16 @@
+/* Class = "UILabel"; text = "THANK YOU"; ObjectID = "9yb-Km-Hxq"; */
+"9yb-Km-Hxq.text" = "TERIMA KASIH";
+
+/* Class = "UIButton"; normalTitle = "REMIND ME LATER"; ObjectID = "CP0-KM-Gbx"; */
+"CP0-KM-Gbx.normalTitle" = "INGATKAN SAYA NANTI";
+
+/* Class = "UIButton"; normalTitle = "No Thanks"; ObjectID = "D0A-9o-dhx"; */
+"D0A-9o-dhx.normalTitle" = "Tidak Terima Kasih";
+
+/* Class = "UIButton"; normalTitle = "RATE THIS APP"; ObjectID = "Kfx-SY-hkZ"; */
+"Kfx-SY-hkZ.normalTitle" = "BERI NILAI APLIKASI INI";
+
+/* Class = "UILabel"; text = "We're so happy to hear that you love \nthe SanDisk iXpand app. It'd be \nreally helpful if you rated us"; ObjectID = "ggO-lH-Qkr"; */
+"ggO-lH-Qkr.text" = "Kami sangat senang mengetahui bahwa Anda menyukai aplikasi iXpand SanDisk. Ini akan
+sangat membantu jika Anda menilai aplikasi kami";
+

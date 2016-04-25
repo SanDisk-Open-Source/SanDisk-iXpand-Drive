@@ -1,0 +1,15 @@
+/* Class = "UIButton"; normalTitle = "<Button Title>"; ObjectID = "77D-7P-dy0"; */
+"77D-7P-dy0.normalTitle" = "<버튼 제목>";
+
+/* Class = "UILabel"; text = "Deleting Files"; ObjectID = "cey-U7-Val"; */
+"cey-U7-Val.text" = "파일 삭제 중";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "cf3-qy-24K"; */
+"cf3-qy-24K.normalTitle" = "확인";
+
+/* Class = "UIButton"; normalTitle = "<Button>"; ObjectID = "eLK-0j-1ne"; */
+"eLK-0j-1ne.normalTitle" = "<버튼>";
+
+/* Class = "UILabel"; text = "Do not show this again."; ObjectID = "ugF-Wk-gy3"; */
+"ugF-Wk-gy3.text" = "이 메시지 표시 안 함";
+

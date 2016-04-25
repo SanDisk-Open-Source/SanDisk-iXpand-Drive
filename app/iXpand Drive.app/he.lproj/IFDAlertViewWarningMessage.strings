@@ -1,0 +1,9 @@
+/* Class = "UILabel"; text = "Deleting Files"; ObjectID = "GAw-d3-dkD"; */
+"GAw-d3-dkD.text" = "מחיקת קבצים";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "bsz-dS-rim"; */
+"bsz-dS-rim.normalTitle" = "לא";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "iNt-ay-M9O"; */
+"iNt-ay-M9O.normalTitle" = "כן";
+

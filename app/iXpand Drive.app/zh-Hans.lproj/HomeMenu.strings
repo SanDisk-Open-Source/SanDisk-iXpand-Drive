@@ -1,0 +1,24 @@
+/* Class = "UIButton"; normalTitle = "BACK UP & RESTORE\nCONTACTS"; ObjectID = "7uX-a6-y6E"; */
+"7uX-a6-y6E.normalTitle" = "备份及还原联系人";
+
+/* Class = "UIButton"; normalTitle = "COPY FILES"; ObjectID = "Cwa-rK-W0r"; */
+"Cwa-rK-W0r.normalTitle" = "复制文件";
+
+/* Class = "UIButton"; normalTitle = "COPY PHOTOS FROM PHONE"; ObjectID = "LRe-hz-fSg"; */
+"LRe-hz-fSg.normalTitle" = "从手机复制图片";
+
+/* Class = "UIButton"; normalTitle = "COPY FILES FROM iXPAND DRIVE"; ObjectID = "MxG-L1-7Lp"; */
+"MxG-L1-7Lp.normalTitle" = "从 iXPAND 复制文件";
+
+/* Class = "UIButton"; normalTitle = "VIEW FILES"; ObjectID = "ZSv-Eh-Sd6"; */
+"ZSv-Eh-Sd6.normalTitle" = "查看文件";
+
+/* Class = "UIButton"; normalTitle = "BACK UP & RESTORE\nPHOTO LIBRARY"; ObjectID = "dGB-St-7lN"; */
+"dGB-St-7lN.normalTitle" = "备份及还原图片库";
+
+/* Class = "UIButton"; normalTitle = "BACK UP AND RESTORE"; ObjectID = "dWO-Vg-QwY"; */
+"dWO-Vg-QwY.normalTitle" = "备份和还原";
+
+/* Class = "UIButton"; normalTitle = "BACK UP\nSOCIAL MEDIA"; ObjectID = "zJQ-VS-S0O"; */
+"zJQ-VS-S0O.normalTitle" = "备份社交媒体内容";
+

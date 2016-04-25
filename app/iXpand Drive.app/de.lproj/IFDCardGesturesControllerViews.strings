@@ -1,0 +1,12 @@
+/* (No Commment) */
+"KNi-Oi-hj6.text" = "ALLE KARTEN ZURÜCKSETZEN";
+
+/* Class = "UILabel"; text = "DISMISS"; ObjectID = "MZQ-lz-FnT"; */
+"MZQ-lz-FnT.text" = "VERWERFEN";
+
+/* Class = "UILabel"; text = "GET LAST DISMISSED CARD"; ObjectID = "VZp-HC-8IR"; */
+"VZp-HC-8IR.text" = "ZULETZT VERWORFENE KARTE ABRUFEN";
+
+/* Class = "UILabel"; text = "RESET ALL CARDS"; ObjectID = "yIa-AD-CwZ"; */
+"yIa-AD-CwZ.text" = "ALLE KARTEN ZURÜCKSETZEN";
+

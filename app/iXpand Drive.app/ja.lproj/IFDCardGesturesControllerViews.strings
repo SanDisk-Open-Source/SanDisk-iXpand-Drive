@@ -1,0 +1,12 @@
+/* (No Commment) */
+"KNi-Oi-hj6.text" = "すべてのカードをリセットする";
+
+/* Class = "UILabel"; text = "DISMISS"; ObjectID = "MZQ-lz-FnT"; */
+"MZQ-lz-FnT.text" = "削除";
+
+/* Class = "UILabel"; text = "GET LAST DISMISSED CARD"; ObjectID = "VZp-HC-8IR"; */
+"VZp-HC-8IR.text" = "最後に削除したカードを再表示する";
+
+/* Class = "UILabel"; text = "RESET ALL CARDS"; ObjectID = "yIa-AD-CwZ"; */
+"yIa-AD-CwZ.text" = "すべてのカードをリセットする";
+

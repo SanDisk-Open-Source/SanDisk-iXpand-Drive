@@ -1,0 +1,86 @@
+/* Class = "UIButton"; normalTitle = "Take a tour"; ObjectID = "0aI-mM-iAc"; */
+"0aI-mM-iAc.normalTitle" = "Hacer un tour";
+
+/* Class = "UILabel"; text = "Let’s update your \nfirmware."; ObjectID = "2Zm-Eg-im8"; */
+"2Zm-Eg-im8.text" = "Vamos a actualizar tu firmware.";
+
+/* Class = "UILabel"; text = "Hello!"; ObjectID = "7Ll-Jz-rYb"; */
+"7Ll-Jz-rYb.text" = "Hola";
+
+/* Class = "UIButton"; normalTitle = "Set up my iXpand Drive"; ObjectID = "9Mr-X7-U3l"; */
+"9Mr-X7-U3l.normalTitle" = "Configurar mi iXpand";
+
+/* Class = "UILabel"; text = "Plug in your iXpand Drive\n to get started."; ObjectID = "80g-Ri-RYn"; */
+"80g-Ri-RYn.text" = "Conecta tu unidad iXpand para empezar.";
+
+/* Class = "UIButton"; normalTitle = "Set up my iXpand Drive"; ObjectID = "A6D-vC-efJ"; */
+"A6D-vC-efJ.normalTitle" = "Configurar mi iXpand";
+
+/* Class = "UILabel"; text = "Save memories from social media."; ObjectID = "EZj-yB-pSq"; */
+"EZj-yB-pSq.text" = "GUARDAR RECUERDOS DE 
+REDES SOCIALES.";
+
+/* Class = "UILabel"; text = "Arranging your content\nso you don't have to..."; ObjectID = "IOB-pZ-vII"; */
+"IOB-pZ-vII.text" = "Estamos organizando tu contenido para ahorrarte trabajo...";
+
+/* Class = "UILabel"; text = "1.0.4"; ObjectID = "IOd-ao-1bl"; */
+"IOd-ao-1bl.text" = "1.0.4";
+
+/* Class = "UILabel"; text = "Transfer files across your devices."; ObjectID = "JAd-1G-5rM"; */
+"JAd-1G-5rM.text" = "TRANSFERIR ARCHIVOS EN TODOS
+LOS DISPOSITIVOS.";
+
+/* Class = "UILabel"; text = "Automatically back up \nyour photo library every time \nyou plug in your iXpand Drive."; ObjectID = "QaU-kb-KZN"; */
+"QaU-kb-KZN.text" = "Crea automáticamente una copia de seguridad del carrete de la cámara cada vez que conectes la iXpand.";
+
+/* Class = "UIButton"; normalTitle = "NOT NOW"; ObjectID = "R6G-MD-J2u"; */
+"R6G-MD-J2u.normalTitle" = "AHORA NO";
+
+/* Class = "UIButton"; normalTitle = "View Files on iPhone"; ObjectID = "RLo-SB-VzP"; */
+"RLo-SB-VzP.normalTitle" = "Ver archivos en el iPhone";
+
+/* Class = "UILabel"; text = "Flash Drive"; ObjectID = "Tlt-Kk-stA"; */
+"Tlt-Kk-stA.text" = "Unidad flash";
+
+/* Class = "UIButton"; normalTitle = "ALLOW"; ObjectID = "XVX-xP-fSp"; */
+"XVX-xP-fSp.normalTitle" = "PERMITIR";
+
+/* Class = "UILabel"; text = "Updating your firmware will make your iXpand Drive work better!"; ObjectID = "Zab-XG-iQm"; */
+"Zab-XG-iQm.text" = "La actualización del firmware permitirá que tu iXpand funcione mejor.";
+
+/* Class = "UILabel"; text = "Hello!\nPlug in your iXpand Drive\nto get started."; ObjectID = "b6s-GC-CFZ"; */
+"b6s-GC-CFZ.text" = "HolaConecta tu iXpand
+para comenzar.";
+
+/* Class = "UIButton"; normalTitle = "TURN ON AUTO BACKUP"; ObjectID = "cYM-VO-KkE"; */
+"cYM-VO-KkE.normalTitle" = "ACTIVAR COPIA DE SEGURIDAD AUTOMÁTICA";
+
+/* Class = "UILabel"; text = "You’re \nConnected!"; ObjectID = "gA9-Kg-nuG"; */
+"gA9-Kg-nuG.text" = "¡Estás conectado!";
+
+/* Class = "UIButton"; normalTitle = "Contact SanDisk Online Support"; ObjectID = "i5r-w1-NOR"; */
+"i5r-w1-NOR.normalTitle" = "Contacta con el Soporte en línea de SanDisk";
+
+/* Class = "UIButton"; normalTitle = "Skip for now"; ObjectID = "lib-tO-a6Y"; */
+"lib-tO-a6Y.normalTitle" = "Omitir por ahora";
+
+/* Class = "UILabel"; text = "Please allow iXpand Drive to access your photos."; ObjectID = "lzI-ft-9Ov"; */
+"lzI-ft-9Ov.text" = "Permite a la iXpand el acceso a tus fotos.Así podremos mantener tus fotos a salvo automáticamente.";
+
+/* Class = "UILabel"; text = "Free up memory to make more memories."; ObjectID = "ooL-Yq-XzN"; */
+"ooL-Yq-XzN.text" = "LIBERAR MEMORIA PARA
+GUARDAR MÁS RECUERDOS.";
+
+/* Class = "UIButton"; normalTitle = "GET INSTRUCTIONS"; ObjectID = "tid-9n-wuo"; */
+"tid-9n-wuo.normalTitle" = "OBTENER INSTRUCCIONES";
+
+/* Class = "UILabel"; text = "Not connected?"; ObjectID = "vIr-7u-afl"; */
+"vIr-7u-afl.text" = "¿No estás conectado?";
+
+/* Class = "UILabel"; text = "This way we can automatically keep your photos safe."; ObjectID = "ydz-iH-44Y"; */
+"ydz-iH-44Y.text" = "De esta forma podemos guardar automáticamente tus fotos.";
+
+/* Class = "UILabel"; text = "Play videos and music directly from the drive."; ObjectID = "zav-hF-rSv"; */
+"zav-hF-rSv.text" = "REPRODUCE VÍDEOS Y MÚSICA
+DIRECTAMENTE DESDE LA UNIDAD.";
+

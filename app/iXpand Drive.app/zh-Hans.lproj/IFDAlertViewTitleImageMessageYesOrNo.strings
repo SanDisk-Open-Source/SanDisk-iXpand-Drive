@@ -1,0 +1,12 @@
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "10n-Fy-iLj"; */
+"10n-Fy-iLj.normalTitle" = "确定";
+
+/* Class = "UILabel"; text = "Camera backup is complete. Do you want to delete these backed up items from your device and free up space?"; ObjectID = "UtY-bn-bfg"; */
+"UtY-bn-bfg.text" = "这些图片将从您所有设备上的 iCloud 库中删除。";
+
+/* (No Commment) */
+"uuT-M8-QKc.text" = "允许 iXpand 删除 60 项图片和视频？";
+
+/* Class = "UIButton"; normalTitle = "<Button Title>"; ObjectID = "xrK-cW-OOx"; */
+"xrK-cW-OOx.normalTitle" = "<按钮标题>";
+

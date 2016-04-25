@@ -1,0 +1,24 @@
+/* Class = "UIButton"; normalTitle = "BACK UP & RESTORE\nCONTACTS"; ObjectID = "7uX-a6-y6E"; */
+"7uX-a6-y6E.normalTitle" = "備份與還原聯絡人";
+
+/* Class = "UIButton"; normalTitle = "COPY FILES"; ObjectID = "Cwa-rK-W0r"; */
+"Cwa-rK-W0r.normalTitle" = "複製檔案";
+
+/* Class = "UIButton"; normalTitle = "COPY PHOTOS FROM PHONE"; ObjectID = "LRe-hz-fSg"; */
+"LRe-hz-fSg.normalTitle" = "複製手機相片";
+
+/* Class = "UIButton"; normalTitle = "COPY FILES FROM iXPAND DRIVE"; ObjectID = "MxG-L1-7Lp"; */
+"MxG-L1-7Lp.normalTitle" = "複製 iXpand 隨身碟檔案";
+
+/* Class = "UIButton"; normalTitle = "VIEW FILES"; ObjectID = "ZSv-Eh-Sd6"; */
+"ZSv-Eh-Sd6.normalTitle" = "檢視檔案";
+
+/* Class = "UIButton"; normalTitle = "BACK UP & RESTORE\nPHOTO LIBRARY"; ObjectID = "dGB-St-7lN"; */
+"dGB-St-7lN.normalTitle" = "備份與還原圖片庫";
+
+/* Class = "UIButton"; normalTitle = "BACK UP AND RESTORE"; ObjectID = "dWO-Vg-QwY"; */
+"dWO-Vg-QwY.normalTitle" = "備份與還原";
+
+/* Class = "UIButton"; normalTitle = "BACK UP\nSOCIAL MEDIA"; ObjectID = "zJQ-VS-S0O"; */
+"zJQ-VS-S0O.normalTitle" = "備份社交媒體";
+

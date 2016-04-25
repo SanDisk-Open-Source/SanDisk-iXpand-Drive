@@ -1,0 +1,25 @@
+/* Class = "UIButton"; normalTitle = "BACK UP & RESTORE\nCONTACTS"; ObjectID = "7uX-a6-y6E"; */
+"7uX-a6-y6E.normalTitle" = "KONTAKTE SICHERN UND WIEDERHERSTELLEN";
+
+/* Class = "UIButton"; normalTitle = "COPY FILES"; ObjectID = "Cwa-rK-W0r"; */
+"Cwa-rK-W0r.normalTitle" = "DATEIEN KOPIEREN";
+
+/* Class = "UIButton"; normalTitle = "COPY PHOTOS FROM PHONE"; ObjectID = "LRe-hz-fSg"; */
+"LRe-hz-fSg.normalTitle" = "FOTOS VON MOBILTELEFON KOPIEREN";
+
+/* Class = "UIButton"; normalTitle = "COPY FILES FROM iXPAND DRIVE"; ObjectID = "MxG-L1-7Lp"; */
+"MxG-L1-7Lp.normalTitle" = "DATEIEN VON iXPAND KOPIEREN";
+
+/* Class = "UIButton"; normalTitle = "VIEW FILES"; ObjectID = "ZSv-Eh-Sd6"; */
+"ZSv-Eh-Sd6.normalTitle" = "DATEIEN ANZEIGEN";
+
+/* Class = "UIButton"; normalTitle = "BACK UP & RESTORE\nPHOTO LIBRARY"; ObjectID = "dGB-St-7lN"; */
+"dGB-St-7lN.normalTitle" = "FOTO-BIBLIOTHEK SICHERN
+UND WIEDERHERSTELLEN";
+
+/* Class = "UIButton"; normalTitle = "BACK UP AND RESTORE"; ObjectID = "dWO-Vg-QwY"; */
+"dWO-Vg-QwY.normalTitle" = "DATEN SICHERN UND WIEDERHERSTELLEN";
+
+/* Class = "UIButton"; normalTitle = "BACK UP\nSOCIAL MEDIA"; ObjectID = "zJQ-VS-S0O"; */
+"zJQ-VS-S0O.normalTitle" = "SOZIALE MEDIEN SICHERN";
+

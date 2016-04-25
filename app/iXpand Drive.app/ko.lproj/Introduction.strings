@@ -1,0 +1,84 @@
+/* Class = "UIButton"; normalTitle = "Take a tour"; ObjectID = "0aI-mM-iAc"; */
+"0aI-mM-iAc.normalTitle" = "둘러보기 시작";
+
+/* Class = "UILabel"; text = "Let’s update your \nfirmware."; ObjectID = "2Zm-Eg-im8"; */
+"2Zm-Eg-im8.text" = "해당 펌웨어를 업데이트하겠습니다.";
+
+/* Class = "UILabel"; text = "Hello!"; ObjectID = "7Ll-Jz-rYb"; */
+"7Ll-Jz-rYb.text" = "안녕하세요!";
+
+/* Class = "UIButton"; normalTitle = "Set up my iXpand Drive"; ObjectID = "9Mr-X7-U3l"; */
+"9Mr-X7-U3l.normalTitle" = "iXpand 설치";
+
+/* Class = "UILabel"; text = "Plug in your iXpand Drive\n to get started."; ObjectID = "80g-Ri-RYn"; */
+"80g-Ri-RYn.text" = "시작하려면 iXpand 드라이브를 연결하십시오.";
+
+/* Class = "UIButton"; normalTitle = "Set up my iXpand Drive"; ObjectID = "A6D-vC-efJ"; */
+"A6D-vC-efJ.normalTitle" = "iXpand 설치";
+
+/* Class = "UILabel"; text = "Save memories from social media."; ObjectID = "EZj-yB-pSq"; */
+"EZj-yB-pSq.text" = "소셜 미디어에 담겨 있는 추억을 간직합니다.";
+
+/* Class = "UILabel"; text = "Arranging your content\nso you don't have to..."; ObjectID = "IOB-pZ-vII"; */
+"IOB-pZ-vII.text" = "해당 내용을 정리하면 그렇게 하지 않아도 됩니다…";
+
+/* Class = "UILabel"; text = "1.0.4"; ObjectID = "IOd-ao-1bl"; */
+"IOd-ao-1bl.text" = "1.0.4";
+
+/* Class = "UILabel"; text = "Transfer files across your devices."; ObjectID = "JAd-1G-5rM"; */
+"JAd-1G-5rM.text" = "여러 장치 간에 파일을 전송합니다.";
+
+/* Class = "UILabel"; text = "Automatically back up \nyour photo library every time \nyou plug in your iXpand Drive."; ObjectID = "QaU-kb-KZN"; */
+"QaU-kb-KZN.text" = "iXpand를 연결할 때마다 자동으로 사진 라이브러리를 백업합니다.";
+
+/* Class = "UIButton"; normalTitle = "NOT NOW"; ObjectID = "R6G-MD-J2u"; */
+"R6G-MD-J2u.normalTitle" = "나중에";
+
+/* Class = "UIButton"; normalTitle = "View Files on iPhone"; ObjectID = "RLo-SB-VzP"; */
+"RLo-SB-VzP.normalTitle" = "iphone의 파일 보기";
+
+/* Class = "UILabel"; text = "Flash Drive"; ObjectID = "Tlt-Kk-stA"; */
+"Tlt-Kk-stA.text" = "Flash Drive";
+
+/* Class = "UIButton"; normalTitle = "ALLOW"; ObjectID = "XVX-xP-fSp"; */
+"XVX-xP-fSp.normalTitle" = "허용";
+
+/* Class = "UILabel"; text = "Updating your firmware will make your iXpand Drive work better!"; ObjectID = "Zab-XG-iQm"; */
+"Zab-XG-iQm.text" = "펌웨어를 업데이트하면 iXpand 성능이 향상됩니다!";
+
+/* Class = "UILabel"; text = "Hello!\nPlug in your iXpand Drive\nto get started."; ObjectID = "b6s-GC-CFZ"; */
+"b6s-GC-CFZ.text" = "안녕하세요!시작하려면 iXpand 드라이브를
+연결하십시오.";
+
+/* Class = "UIButton"; normalTitle = "TURN ON AUTO BACKUP"; ObjectID = "cYM-VO-KkE"; */
+"cYM-VO-KkE.normalTitle" = "자동 백업 켜기";
+
+/* Class = "UILabel"; text = "You’re \nConnected!"; ObjectID = "gA9-Kg-nuG"; */
+"gA9-Kg-nuG.text" = "연결되었습니다!";
+
+/* Class = "UIButton"; normalTitle = "Contact SanDisk Online Support"; ObjectID = "i5r-w1-NOR"; */
+"i5r-w1-NOR.normalTitle" = "SanDisk 온라인 지원 연락처";
+
+/* Class = "UIButton"; normalTitle = "Skip for now"; ObjectID = "lib-tO-a6Y"; */
+"lib-tO-a6Y.normalTitle" = "지금은 건너뛰기";
+
+/* Class = "UILabel"; text = "Please allow iXpand Drive to access your photos."; ObjectID = "lzI-ft-9Ov"; */
+"lzI-ft-9Ov.text" = "iXpand가 해당 사진에 액세스할 수 있게 허용하십시오.";
+
+/* Class = "UILabel"; text = "Free up memory to make more memories."; ObjectID = "ooL-Yq-XzN"; */
+"ooL-Yq-XzN.text" = "소중한 추억을 더 만들려면
+메모리를 비우십시오.";
+
+/* Class = "UIButton"; normalTitle = "GET INSTRUCTIONS"; ObjectID = "tid-9n-wuo"; */
+"tid-9n-wuo.normalTitle" = "지침 가져오기";
+
+/* Class = "UILabel"; text = "Not connected?"; ObjectID = "vIr-7u-afl"; */
+"vIr-7u-afl.text" = "연결되지 않았습니까?";
+
+/* Class = "UILabel"; text = "This way we can automatically keep your photos safe."; ObjectID = "ydz-iH-44Y"; */
+"ydz-iH-44Y.text" = "이 방식으로 사진을 자동으로 안전하게 유지할 수 있습니다.";
+
+/* Class = "UILabel"; text = "Play videos and music directly from the drive."; ObjectID = "zav-hF-rSv"; */
+"zav-hF-rSv.text" = "드라이브에서 직접
+비디오와 음악을 재생하십시오.";
+

@@ -1,0 +1,93 @@
+/* Class = "UIButton"; normalTitle = "Take a tour"; ObjectID = "0aI-mM-iAc"; */
+"0aI-mM-iAc.normalTitle" = "עשה סיור";
+
+/* Class = "UILabel"; text = "Let’s update your \nfirmware."; ObjectID = "2Zm-Eg-im8"; */
+"2Zm-Eg-im8.text" = "בוא נעדכן את 
+הקושחה שלך.";
+
+/* Class = "UILabel"; text = "Hello!"; ObjectID = "7Ll-Jz-rYb"; */
+"7Ll-Jz-rYb.text" = "שלום!";
+
+/* Class = "UIButton"; normalTitle = "Set up my iXpand Drive"; ObjectID = "9Mr-X7-U3l"; */
+"9Mr-X7-U3l.normalTitle" = "הגדרת כונן iXpand שלי";
+
+/* Class = "UILabel"; text = "Plug in your iXpand Drive\n to get started."; ObjectID = "80g-Ri-RYn"; */
+"80g-Ri-RYn.text" = "חבר את כונן iXpand 
+כדי להתחיל.";
+
+/* Class = "UIButton"; normalTitle = "Set up my iXpand Drive"; ObjectID = "A6D-vC-efJ"; */
+"A6D-vC-efJ.normalTitle" = "הגדרת כונן iXpand שלי";
+
+/* Class = "UILabel"; text = "Save memories from social media."; ObjectID = "EZj-yB-pSq"; */
+"EZj-yB-pSq.text" = "שמור זיכרונות 
+ממדיה חברתית.";
+
+/* Class = "UILabel"; text = "Arranging your content\nso you don't have to..."; ObjectID = "IOB-pZ-vII"; */
+"IOB-pZ-vII.text" = "מארגן את התוכן, כדי 
+שאתה לא תצטרך לעשות זאת...";
+
+/* Class = "UILabel"; text = "1.0.4"; ObjectID = "IOd-ao-1bl"; */
+"IOd-ao-1bl.text" = "1.0.4";
+
+/* Class = "UILabel"; text = "Transfer files across your devices."; ObjectID = "JAd-1G-5rM"; */
+"JAd-1G-5rM.text" = "העבר קבצים בין 
+ההתקנים שלך.";
+
+/* Class = "UILabel"; text = "Automatically back up \nyour photo library every time \nyou plug in your iXpand Drive."; ObjectID = "QaU-kb-KZN"; */
+"QaU-kb-KZN.text" = "גבה אוטומטית את 
+ספריית התמונות שלך 
+בכל פעם שתחבר את כונן iXpand.";
+
+/* Class = "UIButton"; normalTitle = "NOT NOW"; ObjectID = "R6G-MD-J2u"; */
+"R6G-MD-J2u.normalTitle" = "לא עכשיו";
+
+/* Class = "UIButton"; normalTitle = "View Files on iPhone"; ObjectID = "RLo-SB-VzP"; */
+"RLo-SB-VzP.normalTitle" = "הצג קבצים ב-iPhone";
+
+/* Class = "UILabel"; text = "Flash Drive"; ObjectID = "Tlt-Kk-stA"; */
+"Tlt-Kk-stA.text" = "כונן הבזק";
+
+/* Class = "UIButton"; normalTitle = "ALLOW"; ObjectID = "XVX-xP-fSp"; */
+"XVX-xP-fSp.normalTitle" = "אפשר";
+
+/* Class = "UILabel"; text = "Updating your firmware will make your iXpand Drive work better!"; ObjectID = "Zab-XG-iQm"; */
+"Zab-XG-iQm.text" = "עדכון הקושחה ישפר את התפקוד של iXpand!";
+
+/* Class = "UILabel"; text = "Hello!\nPlug in your iXpand Drive\nto get started."; ObjectID = "b6s-GC-CFZ"; */
+"b6s-GC-CFZ.text" = "שלום!
+חבר את כונן iXpand 
+כדי להתחיל.";
+
+/* Class = "UIButton"; normalTitle = "TURN ON AUTO BACKUP"; ObjectID = "cYM-VO-KkE"; */
+"cYM-VO-KkE.normalTitle" = "הפעל גיבוי אוטומטי";
+
+/* Class = "UILabel"; text = "You’re \nConnected!"; ObjectID = "gA9-Kg-nuG"; */
+"gA9-Kg-nuG.text" = "אתה
+מחובר!";
+
+/* Class = "UIButton"; normalTitle = "Contact SanDisk Online Support"; ObjectID = "i5r-w1-NOR"; */
+"i5r-w1-NOR.normalTitle" = "פנה אל התמיכה המקוונת של SanDisk";
+
+/* Class = "UIButton"; normalTitle = "Skip for now"; ObjectID = "lib-tO-a6Y"; */
+"lib-tO-a6Y.normalTitle" = "דלג כרגע";
+
+/* Class = "UILabel"; text = "Please allow iXpand Drive to access your photos."; ObjectID = "lzI-ft-9Ov"; */
+"lzI-ft-9Ov.text" = "אפשר לכונן iXpand לגשת לתמונות שלך.";
+
+/* Class = "UILabel"; text = "Free up memory to make more memories."; ObjectID = "ooL-Yq-XzN"; */
+"ooL-Yq-XzN.text" = "פנה מקום בזיכרון כדי 
+לשמור עוד זיכרונות.";
+
+/* Class = "UIButton"; normalTitle = "GET INSTRUCTIONS"; ObjectID = "tid-9n-wuo"; */
+"tid-9n-wuo.normalTitle" = "קבל הוראות";
+
+/* Class = "UILabel"; text = "Not connected?"; ObjectID = "vIr-7u-afl"; */
+"vIr-7u-afl.text" = "לא מחובר?";
+
+/* Class = "UILabel"; text = "This way we can automatically keep your photos safe."; ObjectID = "ydz-iH-44Y"; */
+"ydz-iH-44Y.text" = "בדרך זו נוכל לשמור על ביטחון התמונות שלך אוטומטית.";
+
+/* Class = "UILabel"; text = "Play videos and music directly from the drive."; ObjectID = "zav-hF-rSv"; */
+"zav-hF-rSv.text" = "הפעל סרטוני וידאו ומוזיקה
+ישירות מהכונן.";
+

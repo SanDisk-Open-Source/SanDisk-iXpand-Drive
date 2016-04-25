@@ -1,0 +1,39 @@
+/* Class = "UILabel"; text = "<Title>"; ObjectID = "7W4-op-54V"; */
+"7W4-op-54V.text" = "<タイトル>";
+
+/* Class = "UILabel"; text = "Use Touch ID"; ObjectID = "GY0-lf-ymx"; */
+"GY0-lf-ymx.text" = "Touch IDの利用";
+
+/* Class = "UILabel"; text = "<Label>"; ObjectID = "IlF-6W-cIJ"; */
+"IlF-6W-cIJ.text" = "<ラベル>";
+
+/* Class = "UILabel"; text = "Enter name here"; ObjectID = "Jt6-Yd-vwA"; */
+"Jt6-Yd-vwA.text" = "名前を入力してください。";
+
+/* Class = "UILabel"; text = "Security disabled. Previously locked files will remain secured."; ObjectID = "N5I-ve-WLW"; */
+"N5I-ve-WLW.text" = "セキュリティが無効です。以前に保護したファイルは、引き続き保護されます。";
+
+/* Class = "UILabel"; text = "If security is enabled, individual files and folders can be secured or locked with a password. The locked files will not be accessible without the correct password."; ObjectID = "TpL-vm-ezE"; */
+"TpL-vm-ezE.text" = "セキュリティを有効にすると、ファイルやフォルダをパスワードで保護できます。保護されたファイルにアクセスするには、正しいパスワードが必要です。";
+
+/* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "a18-Jh-DzG"; */
+"a18-Jh-DzG.normalTitle" = "パスワードの変更";
+
+/* Class = "UILabel"; text = "<Title>"; ObjectID = "dFN-6c-8we"; */
+"dFN-6c-8we.text" = "<タイトル>";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "dWd-ki-Xub"; */
+"dWd-ki-Xub.text" = "10";
+
+/* Class = "UIButton"; normalTitle = "Change Hint"; ObjectID = "dvu-uH-Oyj"; */
+"dvu-uH-Oyj.normalTitle" = "ヒントを変更する";
+
+/* Class = "UILabel"; text = "Enable Security"; ObjectID = "eaG-mP-n8J"; */
+"eaG-mP-n8J.text" = "セキュリティの有効化";
+
+/* Class = "UILabel"; text = "<Label>"; ObjectID = "iMd-uR-ehM"; */
+"iMd-uR-ehM.text" = "<ラベル>";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "yZm-6r-7lf"; */
+"yZm-6r-7lf.normalTitle" = "OK";
+

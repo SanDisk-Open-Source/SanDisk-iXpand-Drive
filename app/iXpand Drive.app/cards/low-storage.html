@@ -1,0 +1,65 @@
+<style>
+
+.flex > div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.storage {
+    font-family: "Helvetica Neue";
+    font-weight: lighter;
+    font-size: 20vh;
+    color: #ed1c24;
+    text-align: center;
+}
+
+.title {
+    font-family: "Helvetica Neue";
+    font-weight: lighter;
+    font-size: 14pt;
+    color: #ed1c24;
+    text-align: center;
+}
+
+.text {
+    font-size: 12pt;
+}
+
+@media only screen and (min-device-width: 768px)  {
+    .title {
+        font-size: 28px;
+    }
+    .text {
+        font-size: 24px;
+    }
+}
+
+div.storage {
+    flex-grow:0;
+    height: 22vh;
+    justify-content: flex-start;
+}
+
+div.title {
+    flex-grow:0;
+    height:10vh;
+}
+
+div.text {
+    width: 60%;
+    margin: auto;
+}
+
+
+
+
+
+
+
+</style>
+
+<div class="storage">%%__storage__%%</div>
+<div class="title">%%__title__%%</div>
+<div class="text"><div>%%__text__%%</div></div>

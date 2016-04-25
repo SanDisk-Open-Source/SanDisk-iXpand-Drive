@@ -1,0 +1,27 @@
+/* Class = "UIButton"; normalTitle = "Resume"; ObjectID = "4eP-76-0LV"; */
+"4eP-76-0LV.normalTitle" = "Reanudar";
+
+/* Class = "UILabel"; text = "<FOLDER NAME>"; ObjectID = "71h-Dy-hf7"; */
+"71h-Dy-hf7.text" = "NOMBRE DE CARPETA";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "EWw-h4-iVY"; */
+"EWw-h4-iVY.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "<Transferring 20 files>"; ObjectID = "IGn-vQ-PTb"; */
+"IGn-vQ-PTb.text" = "Copiando 20 archivos";
+
+/* Class = "UILabel"; text = "failed"; ObjectID = "J4u-nG-Yrs"; */
+"J4u-nG-Yrs.text" = "con error";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "JI2-70-BkF"; */
+"JI2-70-BkF.normalTitle" = "CANCELAR";
+
+/* Class = "UILabel"; text = "failed"; ObjectID = "Qif-lS-fZg"; */
+"Qif-lS-fZg.text" = "con error";
+
+/* Class = "UILabel"; text = "<Filename>"; ObjectID = "U2b-a6-dxy"; */
+"U2b-a6-dxy.text" = "<Nombre de archivo>";
+
+/* Class = "UILabel"; text = "<Filename>"; ObjectID = "w3M-Ix-rn2"; */
+"w3M-Ix-rn2.text" = "<Nombre de archivo>";
+

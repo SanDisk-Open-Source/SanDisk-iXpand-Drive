@@ -1,0 +1,69 @@
+/* Class = "UIButton"; normalTitle = "ALBUMS"; ObjectID = "1Pe-QT-xbD"; */
+"1Pe-QT-xbD.normalTitle" = "ALBUMS";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "1Yf-mn-L41"; */
+"1Yf-mn-L41.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "COPY TO iPHONE"; ObjectID = "CTE-bG-dko"; */
+"CTE-bG-dko.normalTitle" = "COPY TO iPHONE";
+
+/* Class = "UILabel"; text = "<Label>"; ObjectID = "Ccj-t5-gWj"; */
+"Ccj-t5-gWj.text" = "<Label>";
+
+/* Class = "UISearchBar"; placeholder = "Search file names"; ObjectID = "DyF-Jw-Abj"; */
+"DyF-Jw-Abj.placeholder" = "Search file names";
+
+/* Class = "UIButton"; normalTitle = "PLAYLISTS"; ObjectID = "F6B-yx-a8b"; */
+"F6B-yx-a8b.normalTitle" = "PLAYLISTS";
+
+/* Class = "UISearchBar"; placeholder = "Search file names"; ObjectID = "Fe1-O7-0gu"; */
+"Fe1-O7-0gu.placeholder" = "Search file names";
+
+/* Class = "UIBarButtonItem"; title = "OK"; ObjectID = "Iu6-R4-Hwa"; */
+"Iu6-R4-Hwa.title" = "OK";
+
+/* Class = "UIButton"; normalTitle = "COPY TO iPHONE"; ObjectID = "Qbf-33-tvf"; */
+"Qbf-33-tvf.normalTitle" = "COPY TO iPHONE";
+
+/* Class = "UILabel"; text = "<Label>"; ObjectID = "Qy3-5v-m3l"; */
+"Qy3-5v-m3l.text" = "<Label>";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "R7x-eX-2H2"; */
+"R7x-eX-2H2.title" = " ";
+
+/* Class = "UILabel"; text = "<Label>"; ObjectID = "S0r-QO-cgy"; */
+"S0r-QO-cgy.text" = "<Label>";
+
+/* Class = "UISearchBar"; placeholder = "Search file names"; ObjectID = "ebN-7H-cYO"; */
+"ebN-7H-cYO.placeholder" = "Search file names";
+
+/* Class = "UIButton"; normalTitle = "grid view"; ObjectID = "fp6-BD-LkA"; */
+"fp6-BD-LkA.normalTitle" = "grid view";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "gup-hh-pXL"; */
+"gup-hh-pXL.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "COPY TO iPHONE"; ObjectID = "jA5-bP-z0d"; */
+"jA5-bP-z0d.normalTitle" = "COPY TO iPHONE";
+
+/* Class = "UIButton"; normalTitle = "list view"; ObjectID = "jpR-6e-NX8"; */
+"jpR-6e-NX8.normalTitle" = "list view";
+
+/* Class = "UIButton"; normalTitle = "ARTISTS"; ObjectID = "jwK-Zr-M49"; */
+"jwK-Zr-M49.normalTitle" = "ARTISTS";
+
+/* Class = "UIButton"; normalTitle = "timeline"; ObjectID = "ora-DH-Xdc"; */
+"ora-DH-Xdc.normalTitle" = "timeline";
+
+/* Class = "UIButton"; normalTitle = "Start Slideshow"; ObjectID = "r4k-MS-cTo"; */
+"r4k-MS-cTo.normalTitle" = "Start Slideshow";
+
+/* Class = "UILabel"; text = "<      Label>"; ObjectID = "sx8-Qa-2oL"; */
+"sx8-Qa-2oL.text" = "<      Label>";
+
+/* Class = "UIButton"; normalTitle = "SONGS"; ObjectID = "uKf-Ls-qea"; */
+"uKf-Ls-qea.normalTitle" = "SONGS";
+
+/* Class = "UIButton"; normalTitle = "GENRES"; ObjectID = "vAh-xd-WbP"; */
+"vAh-xd-WbP.normalTitle" = "GENRES";
+

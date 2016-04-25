@@ -1,0 +1,42 @@
+/* (No Commment) */
+"A4b-cG-2xM.normalTitle" = "Archiver les contacts";
+
+/* (No Commment) */
+"J7a-tB-feZ.text" = "Sauvegarder automatiquement les contacts";
+
+/* (No Commment) */
+"Mfy-Ch-8fi.text" = "1/22/14";
+
+/* Class = "UIButton"; normalTitle = "ARCHIVE CONTACTS"; ObjectID = "NtF-Zi-FYE"; */
+"NtF-Zi-FYE.normalTitle" = "Archiver les contacts";
+
+/* Class = "UILabel"; text = "Restore"; ObjectID = "NtP-51-thu"; */
+"NtP-51-thu.text" = "Restaurer";
+
+/* Class = "UILabel"; text = "<Contact Name>"; ObjectID = "OwZ-YB-5K3"; */
+"OwZ-YB-5K3.text" = "<Contact Name>";
+
+/* Class = "UIButton"; normalTitle = "RESTORE"; ObjectID = "cj2-am-5gm"; */
+"cj2-am-5gm.normalTitle" = "Restaurer";
+
+/* (No Commment) */
+"eDp-48-mKm.normalTitle" = "Restaurer";
+
+/* Class = "UILabel"; text = "1/22/14"; ObjectID = "icy-6S-X81"; */
+"icy-6S-X81.text" = "1/22/14";
+
+/* Class = "UILabel"; text = "<File name>"; ObjectID = "klt-9a-zww"; */
+"klt-9a-zww.text" = "<File Name>";
+
+/* (No Commment) */
+"kmo-9s-YiE.text" = "Restaurer";
+
+/* (No Commment) */
+"krc-s0-Dav.text" = "Sauvegarder";
+
+/* Class = "UILabel"; text = "Back Up"; ObjectID = "oP6-N5-wLv"; */
+"oP6-N5-wLv.text" = "Sauvegarder";
+
+/* Class = "UILabel"; text = "Automatically back up contacts"; ObjectID = "zfl-H8-K3F"; */
+"zfl-H8-K3F.text" = "Sauvegarder automatiquement les contacts";
+

@@ -1,0 +1,12 @@
+/* (No Commment) */
+"KNi-Oi-hj6.text" = "모든 카드 재설정";
+
+/* Class = "UILabel"; text = "DISMISS"; ObjectID = "MZQ-lz-FnT"; */
+"MZQ-lz-FnT.text" = "무시";
+
+/* Class = "UILabel"; text = "GET LAST DISMISSED CARD"; ObjectID = "VZp-HC-8IR"; */
+"VZp-HC-8IR.text" = "마지막으로 무시한 카드 가져오기";
+
+/* Class = "UILabel"; text = "RESET ALL CARDS"; ObjectID = "yIa-AD-CwZ"; */
+"yIa-AD-CwZ.text" = "모든 카드 재설정";
+

@@ -1,0 +1,21 @@
+/* Class = "UILabel"; text = "Album"; ObjectID = "SmY-aF-hDd"; */
+"SmY-aF-hDd.text" = "专辑";
+
+/* Class = "UILabel"; text = "<00>"; ObjectID = "UKT-Ib-5XJ"; */
+"UKT-Ib-5XJ.text" = "<00>";
+
+/* Class = "UIBarButtonItem"; title = "Create Playlist"; ObjectID = "Zj0-Nc-mhF"; */
+"Zj0-Nc-mhF.title" = "创建播放列表";
+
+/* (No Commment) */
+"bP4-RC-SJz.normalTitle" = "创建播放列表";
+
+/* Class = "UILabel"; text = "songs"; ObjectID = "jAq-Wh-Go5"; */
+"jAq-Wh-Go5.text" = "歌曲";
+
+/* Class = "UILabel"; text = "0 Songs"; ObjectID = "v1t-we-2BP"; */
+"v1t-we-2BP.text" = "0 首歌曲";
+
+/* Class = "UIButton"; normalTitle = "COPY TO iPHONE"; ObjectID = "yKa-8i-DyH"; */
+"yKa-8i-DyH.normalTitle" = "复制到 iPhone";
+

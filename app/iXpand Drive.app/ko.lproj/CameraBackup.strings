@@ -1,0 +1,60 @@
+/* (No Commment) */
+"4RW-GO-EAT.normalTitle" = "백업";
+
+/* (No Commment) */
+"BbU-TE-orG.normalTitle" = "확인";
+
+/* (No Commment) */
+"HK0-z6-Ebd.text" = "사진 라이브러리를 백업하거나 복구하시겠습니까?";
+
+/* (No Commment) */
+"HN7-ve-oe6.text" = "자동 백업이 켜졌습니다. 첫 번째 백업이 끝나면 새로운 항목만 iXpand에 백업됩니다.";
+
+/* (No Commment) */
+"JQS-3o-rS0.text" = "카메라 백업 폴더 이름 입력";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "KZp-JM-mle"; */
+"KZp-JM-mle.normalTitle" = "확인";
+
+/* Class = "UIButton"; normalTitle = "BACK UP"; ObjectID = "LKV-f5-Ng2"; */
+"LKV-f5-Ng2.normalTitle" = "백업";
+
+/* (No Commment) */
+"LYa-Vn-Hob.text" = "카메라 백업";
+
+/* (No Commment) */
+"Lc1-LH-Cyy.text" = "대상";
+
+/* Class = "UILabel"; text = "Automatic backup"; ObjectID = "ORA-w0-Rif"; */
+"ORA-w0-Rif.text" = "자동 백업";
+
+/* (No Commment) */
+"SU3-R4-0T4.placeholder" = "카메라 백업 폴더 이름";
+
+/* Class = "UILabel"; text = "Automatic Backup is ON. After the first backup, only new items are backed up to iXpand Drive. "; ObjectID = "aQz-e0-Vwx"; */
+"aQz-e0-Vwx.text" = "자동 백업이 켜졌습니다. 첫 번째 백업이 끝나면 새로운 항목만 iXpand에 백업됩니다.";
+
+/* Class = "UIButton"; normalTitle = "RESTORE"; ObjectID = "bzd-kd-nSU"; */
+"bzd-kd-nSU.normalTitle" = "복구";
+
+/* (No Commment) */
+"eGu-SR-dr6.text" = "자동 백업";
+
+/* (No Commment) */
+"ecD-3b-HvF.normalTitle" = "복구";
+
+/* Class = "UILabel"; text = "Enter new name for Camera Backup folder"; ObjectID = "hEe-lL-EbZ"; */
+"hEe-lL-EbZ.text" = "카메라 백업 폴더 이름 입력";
+
+/* Class = "UITextField"; placeholder = "Camera Backup Folder Name"; ObjectID = "mEa-i9-YdZ"; */
+"mEa-i9-YdZ.placeholder" = "카메라 백업 폴더 이름";
+
+/* Class = "UILabel"; text = "Backup to/ Restore from"; ObjectID = "pyR-j3-yfD"; */
+"pyR-j3-yfD.text" = "백업 대상/ 복구할 원본 위치";
+
+/* Class = "UILabel"; text = "Camera Backup"; ObjectID = "qUe-HF-brS"; */
+"qUe-HF-brS.text" = "카메라 백업";
+
+/* Class = "UILabel"; text = "Do you want to back up or\nrestore your photo library?"; ObjectID = "xyg-CU-VKX"; */
+"xyg-CU-VKX.text" = "사진 라이브러리를 백업하거나 복구하시겠습니까?";
+

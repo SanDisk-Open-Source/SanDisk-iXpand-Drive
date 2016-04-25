@@ -1,0 +1,21 @@
+/* Class = "UILabel"; text = "Album"; ObjectID = "SmY-aF-hDd"; */
+"SmY-aF-hDd.text" = "Album";
+
+/* Class = "UILabel"; text = "<00>"; ObjectID = "UKT-Ib-5XJ"; */
+"UKT-Ib-5XJ.text" = "<00>";
+
+/* Class = "UIBarButtonItem"; title = "Create Playlist"; ObjectID = "Zj0-Nc-mhF"; */
+"Zj0-Nc-mhF.title" = "Créer une liste de lecture";
+
+/* (No Commment) */
+"bP4-RC-SJz.normalTitle" = "Créer une liste de lecture";
+
+/* Class = "UILabel"; text = "songs"; ObjectID = "jAq-Wh-Go5"; */
+"jAq-Wh-Go5.text" = "Chansons";
+
+/* Class = "UILabel"; text = "0 Songs"; ObjectID = "v1t-we-2BP"; */
+"v1t-we-2BP.text" = "0 chansons";
+
+/* Class = "UIButton"; normalTitle = "COPY TO iPHONE"; ObjectID = "yKa-8i-DyH"; */
+"yKa-8i-DyH.normalTitle" = "COPIER VERS iPHONE";
+

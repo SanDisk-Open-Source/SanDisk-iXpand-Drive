@@ -1,0 +1,12 @@
+/* (No Commment) */
+"KNi-Oi-hj6.text" = "СБРОСИТЬ ВСЕ КАРТЫ";
+
+/* Class = "UILabel"; text = "DISMISS"; ObjectID = "MZQ-lz-FnT"; */
+"MZQ-lz-FnT.text" = "ОТКЛОНИТЬ";
+
+/* Class = "UILabel"; text = "GET LAST DISMISSED CARD"; ObjectID = "VZp-HC-8IR"; */
+"VZp-HC-8IR.text" = "ПОЛУЧИТЬ ПОСЛЕДНЮЮ ОТКЛОНЕННУЮ КАРТУ";
+
+/* Class = "UILabel"; text = "RESET ALL CARDS"; ObjectID = "yIa-AD-CwZ"; */
+"yIa-AD-CwZ.text" = "СБРОСИТЬ ВСЕ КАРТЫ";
+

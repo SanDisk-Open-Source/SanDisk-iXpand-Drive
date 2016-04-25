@@ -1,0 +1,12 @@
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "10n-Fy-iLj"; */
+"10n-Fy-iLj.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Camera backup is complete. Do you want to delete these backed up items from your device and free up space?"; ObjectID = "UtY-bn-bfg"; */
+"UtY-bn-bfg.text" = "Foto ini akan dihapus dari perpustakaan iCloud pada seluruh perangkat Anda. ";
+
+/* (No Commment) */
+"uuT-M8-QKc.text" = "Izinkan iXpand menghapus 60 foto & video?";
+
+/* Class = "UIButton"; normalTitle = "<Button Title>"; ObjectID = "xrK-cW-OOx"; */
+"xrK-cW-OOx.normalTitle" = "<Judul Tombol>";
+

@@ -1,0 +1,12 @@
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "Jxy-Sy-gsr"; */
+"Jxy-Sy-gsr.normalTitle" = "TAMAM";
+
+/* Class = "UILabel"; text = "Enter Password"; ObjectID = "VlU-yP-wQX"; */
+"VlU-yP-wQX.text" = "Parolayı Girin";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "tW1-dJ-0wK"; */
+"tW1-dJ-0wK.normalTitle" = "İptal Et";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "z5C-4f-bTs"; */
+"z5C-4f-bTs.placeholder" = "parola";
+

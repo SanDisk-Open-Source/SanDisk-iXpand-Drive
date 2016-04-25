@@ -1,0 +1,60 @@
+/* (No Commment) */
+"4RW-GO-EAT.normalTitle" = "YEDEKLE";
+
+/* (No Commment) */
+"BbU-TE-orG.normalTitle" = "TAMAM";
+
+/* (No Commment) */
+"HK0-z6-Ebd.text" = "Fotoğraf arşivinizi yedeklemek ve geri yüklemek ister misiniz?";
+
+/* (No Commment) */
+"HN7-ve-oe6.text" = "Otomatik Yedekleme AÇIK. İlk yedeklemeden sonra yalnızca yeni öğeler iXpand'e yedeklenir.";
+
+/* (No Commment) */
+"JQS-3o-rS0.text" = "Kamera Yedekleme klasörü için yeni ad girin";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "KZp-JM-mle"; */
+"KZp-JM-mle.normalTitle" = "TAMAM";
+
+/* Class = "UIButton"; normalTitle = "BACK UP"; ObjectID = "LKV-f5-Ng2"; */
+"LKV-f5-Ng2.normalTitle" = "YEDEKLE";
+
+/* (No Commment) */
+"LYa-Vn-Hob.text" = "Kamera Yedekleme";
+
+/* (No Commment) */
+"Lc1-LH-Cyy.text" = "Hedef";
+
+/* Class = "UILabel"; text = "Automatic backup"; ObjectID = "ORA-w0-Rif"; */
+"ORA-w0-Rif.text" = "Otomatik yedekleme";
+
+/* (No Commment) */
+"SU3-R4-0T4.placeholder" = "Kamera Yedekleme Klasör Adı";
+
+/* Class = "UILabel"; text = "Automatic Backup is ON. After the first backup, only new items are backed up to iXpand Drive. "; ObjectID = "aQz-e0-Vwx"; */
+"aQz-e0-Vwx.text" = "Otomatik Yedekleme AÇIK. İlk yedeklemeden sonra yalnızca yeni öğeler iXpand'e yedeklenir.";
+
+/* Class = "UIButton"; normalTitle = "RESTORE"; ObjectID = "bzd-kd-nSU"; */
+"bzd-kd-nSU.normalTitle" = "GERİ YÜKLE";
+
+/* (No Commment) */
+"eGu-SR-dr6.text" = "Otomatik yedekleme";
+
+/* (No Commment) */
+"ecD-3b-HvF.normalTitle" = "GERİ YÜKLE";
+
+/* Class = "UILabel"; text = "Enter new name for Camera Backup folder"; ObjectID = "hEe-lL-EbZ"; */
+"hEe-lL-EbZ.text" = "Kamera Yedekleme klasörü için yeni ad girin";
+
+/* Class = "UITextField"; placeholder = "Camera Backup Folder Name"; ObjectID = "mEa-i9-YdZ"; */
+"mEa-i9-YdZ.placeholder" = "Kamera Yedekleme Klasör Adı";
+
+/* Class = "UILabel"; text = "Backup to/ Restore from"; ObjectID = "pyR-j3-yfD"; */
+"pyR-j3-yfD.text" = "Şuraya yedekle/ Şuradan yükle";
+
+/* Class = "UILabel"; text = "Camera Backup"; ObjectID = "qUe-HF-brS"; */
+"qUe-HF-brS.text" = "Kamera Yedekleme";
+
+/* Class = "UILabel"; text = "Do you want to back up or\nrestore your photo library?"; ObjectID = "xyg-CU-VKX"; */
+"xyg-CU-VKX.text" = "Fotoğraf arşivinizi yedeklemek ve geri yüklemek ister misiniz?";
+

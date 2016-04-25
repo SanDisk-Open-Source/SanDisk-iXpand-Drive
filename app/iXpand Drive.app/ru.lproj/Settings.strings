@@ -1,0 +1,39 @@
+/* Class = "UILabel"; text = "<Title>"; ObjectID = "7W4-op-54V"; */
+"7W4-op-54V.text" = "<Заголовок>";
+
+/* Class = "UILabel"; text = "Use Touch ID"; ObjectID = "GY0-lf-ymx"; */
+"GY0-lf-ymx.text" = "Использование функции Touch ID";
+
+/* Class = "UILabel"; text = "<Label>"; ObjectID = "IlF-6W-cIJ"; */
+"IlF-6W-cIJ.text" = "<Метка>";
+
+/* Class = "UILabel"; text = "Enter name here"; ObjectID = "Jt6-Yd-vwA"; */
+"Jt6-Yd-vwA.text" = "Введите имя в этом поле";
+
+/* Class = "UILabel"; text = "Security disabled. Previously locked files will remain secured."; ObjectID = "N5I-ve-WLW"; */
+"N5I-ve-WLW.text" = "Защита выключена. Ранее заблокированные файлы останутся защищенными.";
+
+/* Class = "UILabel"; text = "If security is enabled, individual files and folders can be secured or locked with a password. The locked files will not be accessible without the correct password."; ObjectID = "TpL-vm-ezE"; */
+"TpL-vm-ezE.text" = "Если функция защиты включена, некоторые файлы или папки могут быть защищены или заблокированы с помощью пароля. Заблокированные файлы будут недоступны без соответствующего пароля.";
+
+/* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "a18-Jh-DzG"; */
+"a18-Jh-DzG.normalTitle" = "Изменить пароль";
+
+/* Class = "UILabel"; text = "<Title>"; ObjectID = "dFN-6c-8we"; */
+"dFN-6c-8we.text" = "<Заголовок>";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "dWd-ki-Xub"; */
+"dWd-ki-Xub.text" = "10";
+
+/* Class = "UIButton"; normalTitle = "Change Hint"; ObjectID = "dvu-uH-Oyj"; */
+"dvu-uH-Oyj.normalTitle" = "Изменить подсказку";
+
+/* Class = "UILabel"; text = "Enable Security"; ObjectID = "eaG-mP-n8J"; */
+"eaG-mP-n8J.text" = "Включить защиту";
+
+/* Class = "UILabel"; text = "<Label>"; ObjectID = "iMd-uR-ehM"; */
+"iMd-uR-ehM.text" = "<Метка>";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "yZm-6r-7lf"; */
+"yZm-6r-7lf.normalTitle" = "OK";
+

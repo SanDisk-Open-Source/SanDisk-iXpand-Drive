@@ -1,0 +1,14 @@
+/* Class = "UIButton"; normalTitle = "Resume"; ObjectID = "4eP-76-0LV"; */
+"4eP-76-0LV.normalTitle" = "Resume";
+
+/* Class = "UILabel"; text = "FOLDER NAME"; ObjectID = "71h-Dy-hf7"; */
+"71h-Dy-hf7.text" = "FOLDER NAME";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "EWw-h4-iVY"; */
+"EWw-h4-iVY.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Transferring 20 files"; ObjectID = "IGn-vQ-PTb"; */
+"IGn-vQ-PTb.text" = "Transferring 20 files";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "JI2-70-BkF"; */
+"JI2-70-BkF.normalTitle" = "CANCEL";

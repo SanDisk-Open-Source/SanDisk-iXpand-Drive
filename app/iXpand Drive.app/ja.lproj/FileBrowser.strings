@@ -1,0 +1,60 @@
+/* Class = "UIButton"; normalTitle = "ALBUMS"; ObjectID = "1Pe-QT-xbD"; */
+"1Pe-QT-xbD.normalTitle" = "アルバム";
+
+/* Class = "UIButton"; normalTitle = "COPY TO iPHONE"; ObjectID = "CTE-bG-dko"; */
+"CTE-bG-dko.normalTitle" = "iPhoneにコピーする";
+
+/* Class = "UILabel"; text = "<Label>"; ObjectID = "Ccj-t5-gWj"; */
+"Ccj-t5-gWj.text" = "<ラベル>";
+
+/* Class = "UISearchBar"; placeholder = "Search file names"; ObjectID = "DyF-Jw-Abj"; */
+"DyF-Jw-Abj.placeholder" = "ファイル名を検索";
+
+/* Class = "UIButton"; normalTitle = "PLAYLISTS"; ObjectID = "F6B-yx-a8b"; */
+"F6B-yx-a8b.normalTitle" = "プレイリスト";
+
+/* Class = "UISearchBar"; placeholder = "Search file names"; ObjectID = "Fe1-O7-0gu"; */
+"Fe1-O7-0gu.placeholder" = "ファイル名を検索";
+
+/* Class = "UIBarButtonItem"; title = "OK"; ObjectID = "Iu6-R4-Hwa"; */
+"Iu6-R4-Hwa.title" = "OK";
+
+/* Class = "UIButton"; normalTitle = "COPY TO iPHONE"; ObjectID = "Qbf-33-tvf"; */
+"Qbf-33-tvf.normalTitle" = "iPhoneにコピーする";
+
+/* Class = "UILabel"; text = "<Label>"; ObjectID = "Qy3-5v-m3l"; */
+"Qy3-5v-m3l.text" = "<ラベル>";
+
+/* Class = "UILabel"; text = "<Label>"; ObjectID = "S0r-QO-cgy"; */
+"S0r-QO-cgy.text" = "<ラベル>";
+
+/* Class = "UISearchBar"; placeholder = "Search file names"; ObjectID = "ebN-7H-cYO"; */
+"ebN-7H-cYO.placeholder" = "ファイル名を検索";
+
+/* Class = "UIButton"; normalTitle = "grid view"; ObjectID = "fp6-BD-LkA"; */
+"fp6-BD-LkA.normalTitle" = "グリッド表示";
+
+/* Class = "UIButton"; normalTitle = "COPY TO iPHONE"; ObjectID = "jA5-bP-z0d"; */
+"jA5-bP-z0d.normalTitle" = "iPhoneにコピーする";
+
+/* Class = "UIButton"; normalTitle = "list view"; ObjectID = "jpR-6e-NX8"; */
+"jpR-6e-NX8.normalTitle" = "リスト表示";
+
+/* Class = "UIButton"; normalTitle = "ARTISTS"; ObjectID = "jwK-Zr-M49"; */
+"jwK-Zr-M49.normalTitle" = "アーティスト";
+
+/* Class = "UIButton"; normalTitle = "timeline"; ObjectID = "ora-DH-Xdc"; */
+"ora-DH-Xdc.normalTitle" = "タイムライン表示";
+
+/* Class = "UIButton"; normalTitle = "Start Slideshow"; ObjectID = "r4k-MS-cTo"; */
+"r4k-MS-cTo.normalTitle" = "スライドショーを開始する";
+
+/* Class = "UILabel"; text = "<      Label>"; ObjectID = "sx8-Qa-2oL"; */
+"sx8-Qa-2oL.text" = "<      ラベル>";
+
+/* Class = "UIButton"; normalTitle = "SONGS"; ObjectID = "uKf-Ls-qea"; */
+"uKf-Ls-qea.normalTitle" = "ソング";
+
+/* Class = "UIButton"; normalTitle = "GENRES"; ObjectID = "vAh-xd-WbP"; */
+"vAh-xd-WbP.normalTitle" = "ジャンル";
+

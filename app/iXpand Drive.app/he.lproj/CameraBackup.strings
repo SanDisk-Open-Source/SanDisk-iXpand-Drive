@@ -1,0 +1,62 @@
+/* (No Commment) */
+"4RW-GO-EAT.normalTitle" = "ביצוע גיבוי";
+
+/* (No Commment) */
+"BbU-TE-orG.normalTitle" = "אישור";
+
+/* (No Commment) */
+"HK0-z6-Ebd.text" = "האם ברצונך לבצע גיבוי או 
+לשחזר את ספריית התמונות שלך?";
+
+/* (No Commment) */
+"HN7-ve-oe6.text" = "גיבוי אוטומטי מופעל. לאחר הגיבוי הראשון, רק פריטים חדשים עוברים גיבוי לכונן iXpand. ";
+
+/* (No Commment) */
+"JQS-3o-rS0.text" = "הזן שם חדש לתיקיית גיבוי המצלמה";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "KZp-JM-mle"; */
+"KZp-JM-mle.normalTitle" = "אישור";
+
+/* Class = "UIButton"; normalTitle = "BACK UP"; ObjectID = "LKV-f5-Ng2"; */
+"LKV-f5-Ng2.normalTitle" = "ביצוע גיבוי";
+
+/* (No Commment) */
+"LYa-Vn-Hob.text" = "גיבוי מצלמה";
+
+/* (No Commment) */
+"Lc1-LH-Cyy.text" = "יעד";
+
+/* Class = "UILabel"; text = "Automatic backup"; ObjectID = "ORA-w0-Rif"; */
+"ORA-w0-Rif.text" = "גיבוי אוטומטי";
+
+/* (No Commment) */
+"SU3-R4-0T4.placeholder" = "שם תיקיית גיבוי מצלמה";
+
+/* Class = "UILabel"; text = "Automatic Backup is ON. After the first backup, only new items are backed up to iXpand Drive. "; ObjectID = "aQz-e0-Vwx"; */
+"aQz-e0-Vwx.text" = "גיבוי אוטומטי מופעל. לאחר הגיבוי הראשון, רק פריטים חדשים עוברים גיבוי לכונן iXpand.";
+
+/* Class = "UIButton"; normalTitle = "RESTORE"; ObjectID = "bzd-kd-nSU"; */
+"bzd-kd-nSU.normalTitle" = "שחזור";
+
+/* (No Commment) */
+"eGu-SR-dr6.text" = "גיבוי אוטומטי";
+
+/* (No Commment) */
+"ecD-3b-HvF.normalTitle" = "שחזור";
+
+/* Class = "UILabel"; text = "Enter new name for Camera Backup folder"; ObjectID = "hEe-lL-EbZ"; */
+"hEe-lL-EbZ.text" = "הזן שם חדש לתיקיית גיבוי המצלמה";
+
+/* Class = "UITextField"; placeholder = "Camera Backup Folder Name"; ObjectID = "mEa-i9-YdZ"; */
+"mEa-i9-YdZ.placeholder" = "שם תיקיית גיבוי מצלמה";
+
+/* Class = "UILabel"; text = "Backup to/ Restore from"; ObjectID = "pyR-j3-yfD"; */
+"pyR-j3-yfD.text" = "גבה ל/ שחזר מ";
+
+/* Class = "UILabel"; text = "Camera Backup"; ObjectID = "qUe-HF-brS"; */
+"qUe-HF-brS.text" = "גיבוי מצלמה";
+
+/* Class = "UILabel"; text = "Do you want to back up or\nrestore your photo library?"; ObjectID = "xyg-CU-VKX"; */
+"xyg-CU-VKX.text" = "האם ברצונך לבצע גיבוי או 
+לשחזר את ספריית התמונות שלך?";
+
